@@ -22,9 +22,3 @@ Este projeto tem caráter educativo, sendo uma oportunidade de:
 
 src/imagens/javascript-original.svg
 
-## 🛠️ Como Executar o Projeto
-
-1. Clone o repositório:
-
-```bash
-git clone https://github.com/HenryMiles02/projeto-convert.git
