@@ -17,8 +17,3 @@ Este projeto tem caráter educativo, sendo uma oportunidade de:
 - Trabalhar com eventos de formulário e botões
 - Aplicar lógica matemática para cálculos de conversão
 - Desenvolver uma interface responsiva simples com CSS
-
-## 📸 Preview
-
-src/imagens/javascript-original.svg
-
